@@ -6,13 +6,13 @@ Welcome to the **Overflow**, a fun and engaging 2D Unity game where you control 
 
 ## ✨ Features
 
-- 🎮 **Player-Controlled Seahorse**: Glide through water as a nimble seahorse.
-- 🏹 **Shoot Spikes**: Defend yourself from enemy crabs with spike projectiles.
-- 🤝 **Rescue Seahorses**: Capture other seahorses to increase your score and allies.
-- 🌟 **Enemy AI**: Crabs chase you and try to block your progress.
-- 🌊 **Water Physics**: Smooth, fluid-like controls for immersive gameplay.
-- 📈 **Scoring System**: Earn points for each seahorse captured and crab defeated.
-- 💻 **Beginner-Friendly Code**: Built with Unity and C#, perfect for learning game development basics.
+- 🎮 **Player-Controlled Seahorse**: Glide through water as a nimble seahorse
+- 🏹 **Shoot Spikes**: Defend yourself from enemy crabs with spike projectiles
+- 🤝 **Rescue Seahorses**: Capture other seahorses to increase your score and allies
+- 🌟 **Enemy AI**: Crabs chase you and try to block your progress
+- 🌊 **Water Physics**: Smooth, fluid-like controls for immersive gameplay
+- 📈 **Scoring System**: Earn points for each seahorse captured and crab defeated
+- 💻 **Beginner-Friendly Code**: Built with Unity and C#, perfect for learning game development basics
 
 ---
 
@@ -114,9 +114,9 @@ Overflow/
 ## 🤔 Why?
 
 This project is a great starting point for:
-- Learning Unity game development.
-- Practicing C# programming.
-- Creating fun, portfolio-worthy projects.
+- Learning Unity game development
+- Practicing C# programming
+- Creating fun, portfolio-worthy projects
 
 ---
 
