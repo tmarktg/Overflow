@@ -104,7 +104,7 @@ Overflow/
 
 ## 🌟 Future Enhancements
 
-1. goal is to make it like this: https://www.youtube.com/watch?si=1760XwRBdMYcQzCE&v=oX1hStDDyIo&feature=youtu.be
+1. Goal is to make it like this: https://www.youtube.com/watch?si=1760XwRBdMYcQzCE&v=oX1hStDDyIo&feature=youtu.be
 
 2. Publish game on itch.io as an indie game
 
