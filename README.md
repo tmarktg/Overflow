@@ -44,8 +44,6 @@ Welcome to the **Overflow**, a fun and engaging 2D Unity game where you control 
 
 3. Capture Seahorses: Swim close to other seahorses to rescue them
 
-- Click the "Delete" button, and the task disappears from the list
-
 ---
 
 ## 📂 File Structure
