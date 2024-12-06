@@ -27,24 +27,24 @@ Welcome to the **Overflow**, a fun and engaging 2D Unity game where you control 
    cd Overflow
    ```
 
-2. Open Unity Hub and select Open Project.
+2. Open Unity Hub and select Open Project
 
-3. Navigate to the cloned directory and open the project.
+3. Navigate to the cloned directory and open the project
 
-4. Press the Play button in Unity Editor to start the game.
+4. Press the Play button in Unity Editor to start the game
 
 ### Method 2: Export and Play
 ---
 
 ## 🎮 Controls
 
-1. Move: Use the arrow keys to navigate.
+1. Move: Use the arrow keys to navigate
 
-2. Shoot: Press the Space key to fire spikes.
+2. Shoot: Press the Space key to fire spikes
 
-3. Capture Seahorses: Swim close to other seahorses to rescue them.
+3. Capture Seahorses: Swim close to other seahorses to rescue them
 
-- Click the "Delete" button, and the task disappears from the list.
+- Click the "Delete" button, and the task disappears from the list
 
 ---
 
